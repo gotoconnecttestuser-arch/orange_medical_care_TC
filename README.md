@@ -1,7 +1,13 @@
 Orange Medical Care — SMS Terms and Conditions
 Effective date: November 6, 2026
 
-By opting in, you agree to receive recurring customer-care text messages from Orange Medical Care. Messages may include appointment reminders, scheduling updates, and service-related notifications. This program does not send marketing or promotional messages.
+By providing your mobile number and opting in to SMS communications from orange medical care, you agree to receive customer care messages.
+
+Message frequency may vary. On average, 1-2 messages per month.
+Message and data rates may apply.
+You can reply STOP to opt out at any time.
+You can reply HELP for assistance.
+Your information will be handled in accordance with our Privacy Policy: https://github.com
 
 Message frequency and charges
 Message frequency varies based on your care and interactions with us. Message and data rates may apply, depending on your wireless plan and carrier.
